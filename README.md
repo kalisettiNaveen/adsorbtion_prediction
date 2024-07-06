@@ -1,6 +1,6 @@
 Adsorption is one of the important methods for removing hydrogen sulfide from industrial gases and wastewaters.
 In recent decades, adsorption has attracted a great deal of attention for purification of environment
-Removal of hydrogen sulfide (H2S) from aqueous solutions had been studied using zinc oxide (ZnO) as adsorbent. 
+Removal of hydrogen sulfide (H2S) from aqueous solutions had been studied using zinc oxide (ZnO) as adsorbent.
 The adsorption capacity of ZnO for H2S from aqueous solutions was determined under various conditions of temperature and solution pH.
 Equilibrium data were used to construct adsorption isotherms and to fit various adsorption models. 
 Results showed that increasing temperature leads to an increase in the adsorption capacity of oxide. 
